@@ -1,6 +1,6 @@
 console.log("--------------------Bölüm 1--------------------");
 
-const ogrenciAdi = "Yusuf";
+const ogrenciAdi = "Yusuf Can";
 const ogrenciNo = "24301004";
 const dogumYili = 2005;
 const bolum = "Bilgisayar Mühendisliği";
